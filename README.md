@@ -27,7 +27,7 @@ We use Pandas to answer the following questions:
 Unit tests are written under `test_module.py`.
 
 ### To Run this Repository:
-- `git clone https://github.com/McSnipe97/demographic-data-analyzer.git && cd demographic-data-analyzer-master`
+- `git clone https://github.com/McSnipe97/demographic-data-analyzer.git && cd demographic-data-analyzer`
 - `python3 -m poetry install`
 - `python3 main.py`
 
